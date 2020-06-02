@@ -1,0 +1,59 @@
+body{
+    background: linear-gradient(rgba(0, 0, 50, 0.5), rgba(0, 0, 50, 0.5)),url(Blubbr.png);
+    color: white;
+    text-align: center;
+    background-position: center;
+    
+}
+
+.login-box{
+    background: #fff;
+    border-color: black;
+    border-style: solid;
+    border-width: 50px,50px,50px,50px;
+    padding: 30px;
+    color: lightblue;
+    max-width: 250px;
+    max-height: 500px;
+    float: none;
+    margin: 150px auto;
+}
+
+.form-control{
+    height: 30px;
+    width: 200px;
+}
+
+
+
+
+.btn-primary{
+    background-color: lightgreen;
+    border-width: 0px,0px,0px,0px;
+    width: 150px;
+    height: 30px;
+    color: white;
+    font-size: larger;
+}
+
+.btn-primary:hover{
+    background-color: #45a049;
+}
+
+.form-control:focus{
+    border-color: lightskyblue;
+}
+
+.topbar{
+    background-color: lightblue;
+    height: 30px;
+    width: 500px;
+}
+
+.home-btn:hover{
+    background-color: lightskyblue;
+}
+
+.home-btn{
+    background-color: lightblue;
+}

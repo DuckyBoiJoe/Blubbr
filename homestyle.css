@@ -1,0 +1,23 @@
+html {
+    font-size: x-large;
+    text-align: center;
+}
+
+.topbar {
+    background-color: cadetblue;
+    height: 70px;
+    width: 1280px;
+}
+
+.home-btn {
+    background-color: lightblue;
+    height: 50px;
+    width: 150px;
+    border-width: 0px;
+    font-size: 32px;
+    color: white;
+    position: absolute left;
+}
+.home-btn:hover {
+    background-color: lightskyblue;
+}
